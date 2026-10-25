@@ -1,0 +1,5 @@
+# Dữ liệu do script tạo ra, GitHub Actions tự tạo lại mỗi lần chạy
+site/data/
+__pycache__/
+# Cấu hình xem thử trên máy
+.claude/

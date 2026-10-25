@@ -1,0 +1,21 @@
+{
+  "_ghi_chu": "Danh sách nguồn RSS miễn phí. Thêm/bớt nguồn tại đây, không cần sửa code. lang: en hoặc vi. official: nguồn chính thức (Fed, EIA, CFTC).",
+  "feeds": [
+    { "name": "Fed · Chính sách tiền tệ", "url": "https://www.federalreserve.gov/feeds/press_monetary.xml", "lang": "en", "official": true },
+    { "name": "Fed · Thông cáo", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "lang": "en", "official": true },
+    { "name": "EIA · Today in Energy", "url": "https://www.eia.gov/rss/todayinenergy.xml", "lang": "en", "official": true },
+    { "name": "EIA · Thông cáo", "url": "https://www.eia.gov/rss/press_rss.xml", "lang": "en", "official": true },
+    { "name": "CFTC · Thông cáo", "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "lang": "en", "official": true },
+    { "name": "CNBC Markets",      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html", "lang": "en" },
+    { "name": "CNBC Finance",      "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html", "lang": "en" },
+    { "name": "MarketWatch",       "url": "https://feeds.content.dowjones.io/public/rss/mw_bulletins", "lang": "en" },
+    { "name": "MarketWatch Pulse", "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse", "lang": "en" },
+    { "name": "Investing.com",     "url": "https://www.investing.com/rss/news_25.rss", "lang": "en" },
+    { "name": "Investing.com Commodities", "url": "https://www.investing.com/rss/news_11.rss", "lang": "en" },
+    { "name": "Investing.com Economy", "url": "https://www.investing.com/rss/news_14.rss", "lang": "en" },
+    { "name": "Investing.com Indicators", "url": "https://www.investing.com/rss/news_95.rss", "lang": "en" },
+    { "name": "VnExpress Kinh doanh", "url": "https://vnexpress.net/rss/kinh-doanh.rss", "lang": "vi" },
+    { "name": "CafeF Chứng khoán", "url": "https://cafef.vn/thi-truong-chung-khoan.rss", "lang": "vi" }
+  ],
+  "calendar_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+}
